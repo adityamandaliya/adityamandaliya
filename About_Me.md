@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @adityamandaliya
+- 👋 Hi, I’m Aditya Mandaliya
 - 👀 I’m interested in machine learning , deep learning , front-end web dev, tennis, marathon running
 - 🌱 I’m currently learning deep learning
 - 💞️ I’m looking to collaborate on ...
